@@ -1,0 +1,36 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "cover": "image.png",
+      "cover_place": "above",
+      "cover_height": "12.5rem",
+      "thumbnail": "thumbnail.png",
+      "title": "Card title",
+      "subtitle": "Card subtitle",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "footer": "Card footer"
+    },
+    {
+      "id": 2,
+      "cover": "image.png",
+      "cover_place": "under",
+      "cover_height": "12.5rem",
+      "title": "Card title",
+      "subtitle": "Card subtitle",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "footer": "Card footer"
+    },
+    {
+      "id": 3,
+      "thumbnail": "thumbnail.png",
+      "title": "Card title",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 4,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "footer": "Card footer"
+    }
+  ]
+}
